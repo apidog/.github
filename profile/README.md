@@ -9,9 +9,9 @@ To get started with Apidog, follow these steps:
 1. **Download and Install Apidog**: 
    [Instructions for downloading and installing Apidog](https://apidog.com/download/)
 2. **Quick Start Guide**: 
-   Learn the core functionalities by following our [Quick Start Guide](https://apidog.com/help/introduction/walk-through-apidog)
+   Learn the core functionalities by following our [Quick Start Guide](https://docs.apidog.com/)
 3. **Explore Documentation and Blog**: 
-   Dive deeper into specific features with our [Help Docs](https://apidog.com/help/introduction/what-is-apidog) and [blog](https://apidog.com/blog/)
+   Dive deeper into specific features with our [Help Docs](https://docs.apidog.com/introduce-apidog-643492m0) and [blog](https://apidog.com/blog/)
 
 ## Community & Support
 
